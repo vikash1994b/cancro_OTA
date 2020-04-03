@@ -1,13 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1234567890,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "filename": "lineage-17.1-20200404-UNOFFICIAL-cancrotest.zip",
+      "url": "https://www.androidfilehost.com/?fid=4349826312261760790",
+      "md5sum": "ba8975a1f24783442a7ac05ad74cfb25",
+      "datetime": 1585958400,
       "romtype": "unofficial",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "16.0"
+      "version": "17.1"
     }
   ]
 }
