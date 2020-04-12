@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1585976400,
-      "filename": "lineage-17.1-UNOFFICIAL-20200404-cancro",
-      "id": "b74fe26510b9f980d051fb8fc8b55441",
+      "datetime": 1586676615,
+      "filename": "lineage-17.1-20200412-UNOFFICIAL-cancro.zip",
+      "id": "f7082d2548cb5b78d2411ff22c35b8d0",
       "romtype": "unofficial",
-      "size": 453509120,
-      "url": "https://github.com/vikash1994b/cancro_releases/releases/download/b310cc9/lineage-17.1-UNOFFICIAL-20200404-cancro.zip",
+      "size": 454355041,
+      "url": "https://github.com/vikash1994b/cancro_releases/releases/download/b310cc9/lineage-17.1-20200412-UNOFFICIAL-cancro.zip",
       "version": "17.1"
     }
   ]
